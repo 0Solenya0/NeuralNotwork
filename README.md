@@ -1,2 +1,2 @@
-# long-live-DL
-Testing out some AI applications and implementing models.
+# NeuralNotwork
+Testing out some LLM applications and implementing NN models.
