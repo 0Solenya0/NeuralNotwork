@@ -1,0 +1,1 @@
+Training a transformer model to solve simple arithmetic expressions (addition, subtraction, multiplication, division)
