@@ -1,0 +1,1 @@
+Training a simple ConvNet on MNIST dataset, then distilling the model to a simple MLP.

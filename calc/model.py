@@ -2,7 +2,7 @@ import torch
 from torch import nn
 import random
 
-from calculator.generate_data import generate_simple_expression
+from calc.generate_data import generate_simple_expression
 
 VOCAB = "0123456789+()= "
 VOCAB_SIZE = len("0123456789+()= ")

@@ -1,4 +1,5 @@
 .idea
 spell-checker/data.jsonl
+MNIST/data
 .ipynb_checkpoints
 __pycache__
